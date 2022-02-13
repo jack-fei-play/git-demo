@@ -17,6 +17,7 @@ hello git!
 hello git!master test
 hello git! hot test
 hello git!
+git 加速
 git remote write!
 cloen update
 new cloen
